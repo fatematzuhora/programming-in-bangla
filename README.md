@@ -83,6 +83,11 @@
 * সেগমেন্ট ট্রি (Segment Tree)
     * [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    
+    * [সেগমেন্ট ট্রি](https://iishanto.me/2020/04/01/%e0%a6%b8%e0%a7%87%e2%80%8c%e0%a6%97%e0%a7%87%e2%80%8c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    
+    * [সেগমেন্ট ট্রি লেজি প্রপাগেশন](https://iishanto.me/2020/04/09/%e0%a6%b2%e0%a7%87%e0%a6%9c%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    
     * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
     * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * পারসিস্টেন্ট সেগমেন্ট ট্রি [১](https://rezwanarefin01.github.io/posts/persistent-segment-tree-01/), [২](https://rezwanarefin01.github.io/posts/persistent-segment-tree-02/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
@@ -242,7 +247,7 @@
 * বাবল সর্ট (Bubble sort)
     - [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
     - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [বাবল সর্ট](https://bn.shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
+    - [বাবল সর্ট](https://shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
     - [বাবল সর্ট (ভিডিও)](https://youtu.be/ZUI0VQ9JvDw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * কাউন্টিং সর্ট (Counting sort)
@@ -318,6 +323,8 @@
 * [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [KMP অ্যালগোরিদম](https://returnzerooo.wordpress.com/2016/09/08/kmp/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [রবিন-কার্প স্ট্রিং ম্যাচিং](http://www.shafaetsplanet.com/?p=3028) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদমিং](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
